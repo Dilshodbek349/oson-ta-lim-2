@@ -1,0 +1,22 @@
+<svg width="500" height="350" viewBox="0 0 500 350" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kitoblar va bitiruv qalpog‘i">
+<defs>
+ <linearGradient id="book1" x1="100" y1="200" x2="400" y2="240"><stop stop-color="#E1E1FF"/><stop offset="1" stop-color="#ABA1FF"/></linearGradient>
+ <linearGradient id="book2" x1="110" y1="265" x2="420" y2="300"><stop stop-color="#90CFFF"/><stop offset="1" stop-color="#517BEE"/></linearGradient>
+ <linearGradient id="book3" x1="115" y1="260" x2="395" y2="300"><stop stop-color="#C6B9FF"/><stop offset="1" stop-color="#7353DC"/></linearGradient>
+ <linearGradient id="hat" x1="200" y1="40" x2="397" y2="154"><stop stop-color="#263F8A"/><stop offset="1" stop-color="#07193A"/></linearGradient>
+ <linearGradient id="side" x1="160" y1="130" x2="335" y2="181"><stop stop-color="#14377C"/><stop offset="1" stop-color="#0A1E4D"/></linearGradient>
+ <filter id="shadow" x="0" y="0" width="500" height="350"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<ellipse cx="270" cy="318" rx="172" ry="15" fill="#091F70" opacity=".28" filter="url(#shadow)"/>
+<g transform="rotate(-7 264 270)"><rect x="140" y="242" width="260" height="53" rx="13" fill="#5F47C6"/><path d="M151 242H396V265H151C137 265 137 242 151 242Z" fill="url(#book3)"/><rect x="157" y="265" width="230" height="18" rx="7" fill="#F0EDFF"/><path d="M159 265H385" stroke="#BEB8E8" stroke-width="4"/></g>
+<g transform="rotate(5 257 233)"><rect x="108" y="198" width="287" height="54" rx="13" fill="#3765C9"/><path d="M121 198H382C392 198 395 204 395 215V225H111V209C111 203 115 198 121 198Z" fill="url(#book2)"/><rect x="126" y="225" width="251" height="18" rx="7" fill="#F5FCFF"/><path d="M128 230H375" stroke="#C6DDFF" stroke-width="3"/></g>
+<g transform="rotate(-3 264 192)"><rect x="140" y="166" width="240" height="46" rx="12" fill="#7D70E9"/><path d="M151 166H370C377 166 380 171 380 179V189H142V178C142 171 146 166 151 166Z" fill="url(#book1)"/><rect x="151" y="188" width="218" height="16" rx="7" fill="white"/><path d="M151 191H363" stroke="#DED9FF" stroke-width="3"/></g>
+<path d="M190 111L320 106L320 170C300 193 224 195 190 164V111Z" fill="url(#side)"/>
+<path d="M93 111L242 50C248 48 258 48 264 50L419 111C426 114 426 122 419 125L263 185C256 188 248 188 242 185L93 125C86 122 86 115 93 111Z" fill="url(#hat)"/>
+<path d="M406 125V194" stroke="#172D66" stroke-width="8" stroke-linecap="round"/>
+<path d="M406 187C400 198 398 207 401 218H412C416 207 413 198 406 187Z" fill="#F9BC44"/>
+<path d="M406 219L395 240H416L406 219Z" fill="#E9A52F"/>
+<circle cx="86" cy="164" r="4" fill="#FFD372"/><path d="M83 149L88 160L98 165L88 170L83 181L78 170L68 165L78 160Z" fill="#FFD372"/>
+<path d="M452 98L459 113L473 119L459 125L452 140L445 125L431 119L445 113Z" fill="#FFE49C"/>
+<circle cx="64" cy="227" r="5" fill="#FFEAB5"/><circle cx="442" cy="276" r="6" fill="#B3C5FF"/>
+</svg>
